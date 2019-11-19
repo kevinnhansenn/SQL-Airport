@@ -4,11 +4,11 @@
 
 ## Creating a program using SQL to manage entire system of the following.
 
-![RD](RelationalDatabase.png)
+![RD](./RelationalDatabase.png)
 
 ## The ER Diagram of the following Relational is the following.
 
-![ER](ERDiagram.png)
+![ER](./ERDiagram.png)
 
 ## The initial functions are as follows
 
